@@ -1,0 +1,13 @@
+const print = console.log
+//? CREATE OBJECT
+//? -- LITERAL OBJECT
+//? -- FACTORY FUNTION
+//? -- CONSTUCTER FUNCTION
+//? -- PROTOTYPE 
+//? -- CLASS 
+//? -- Object.assign 
+//? -- CLONE OBJECT
+//? GET ALL MEMBER OBJECT
+//? GET ONE MEMBER OBJECT
+//? UPDATE OBJECT
+//? REMOVE MEMBER OBJECT

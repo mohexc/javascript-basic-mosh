@@ -1,0 +1,6 @@
+Create array
+Adding new element
+Finding element
+Removing element
+Splitting array
+Combining array

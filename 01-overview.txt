@@ -1,0 +1,21 @@
+01-VARIBLE
+    type
+        primitive : number, string, boolean, undefine, null
+        reference : array, object, 
+    mutation
+        const
+        let
+        var
+    scope
+        global
+        local
+02-OPERATOR
+    arimatice
+03-CONTROL FLOW
+04-FUNCTION
+    create & call
+    hoisting
+    argument
+    rest-operator
+05-ARRAY
+06-OBJECT

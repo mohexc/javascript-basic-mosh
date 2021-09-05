@@ -1,0 +1,30 @@
+OOP = a programming paradigm centered around objects rather than function
+
+4PILLARS
+    Encapsulation : reduce complexity + increase reusability
+    Abstraction : reduce complexity + isolate impact of changes
+    Inheritance : eliminate reundant code
+    Polymorphism : refactor ugly switch/case statement
+
+OBJECT : group variable & function
+    variable = property
+    function = method
+
+---- example -----
+let baseSalary = 30000
+let overtime = 10
+let rate = 20
+
+function getWage(baseSalary, overtime, rate){
+    return baseSalary+ (oberTime * rate)
+}
+---- object ----
+let employee = {
+    baseSalary: 30000,
+    overtime: 10,
+    rate: 20, 
+    getWage: function() {
+        return this.baseSalary + (this.overtime * this.rate)
+    }
+}
+employee.getWage()
